@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Front-End<br><br>🤝 I'm looking for help finding a job<br>🌱 I’m currently learning React-Native<br><br>
+🔭 I’m currently working on Front-End<br>🤝 I'm looking for help finding a job<br>🌱 I’m currently learning React-Native<br><br>
 
 
 ## 🌐 Socials:
